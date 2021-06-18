@@ -9,3 +9,14 @@ A default gateway in Internet jargon is a term for a hardware node or point that
 Default simply means that this gateway is used by default, unless an application specifies another gateway. The default server does not even need to be a router; it may be a computer with two network adapters, where one is connected to the local subnet and the other is connected to an outside network.
 
 ### ?? what is "Subnet mask"
+
+## 6/18/2021
+### what is the differences between "parameter" and "argument"?
+(from https://developer.mozilla.org/en-US/docs/Glossary/Parameter)
+A parameter is a named variable passed into a function. Parameter variables are used to import arguments into functions.
+
+Note the difference between parameters and arguments:
+
+- Function parameters are the names listed in the function's definition.
+- Function arguments are the real values passed to the function.
+- Parameters are initialized to the values of the arguments supplied.
