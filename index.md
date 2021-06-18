@@ -13,6 +13,7 @@ Default simply means that this gateway is used by default, unless an application
 ## 6/18/2021
 ### what is the differences between "parameter" and "argument"?
 (from https://developer.mozilla.org/en-US/docs/Glossary/Parameter)
+
 A parameter is a named variable passed into a function. Parameter variables are used to import arguments into functions.
 
 Note the difference between parameters and arguments:
